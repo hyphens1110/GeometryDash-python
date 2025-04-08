@@ -28,6 +28,6 @@ Control Geometry Dash using hand gestures! This project combines computer vision
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/HandGesture-GD.git
-cd HandGesture-GD
+git clone https://github.com/hyphens1110/GeometryDash-python.git
+cd GeometryDash-python
 pip install -r requirements.txt
