@@ -30,3 +30,4 @@ Control Geometry Dash using hand gestures! This project combines computer vision
 ```bash
 git clone https://github.com/yourusername/HandGesture-GD.git
 cd HandGesture-GD
+pip install -r requirements.txt
